@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "سانیا مسعودی"
 title_separator          : "-"
 name                     : "sanya" 
-description              : "Welcome to my web site."
+description              : "سلام عزیزم عزیزم سلام"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : 
 facebook:
-  username               : sauleh.eetemadi
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
