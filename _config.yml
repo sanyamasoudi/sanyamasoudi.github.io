@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "aqua" #"default" # "air","contrast", "dark", "dirt",
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "سانیا مسعودی"
+title                    : "welcome to my website <3 "
 title_separator          : "-"
 name                     : "sanya" 
 description              : "سلام عزیزم عزیزم سلام"
@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : #"github-dark"(default),"github-light"  
     issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -116,7 +116,7 @@ author:
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
   github: sanyamoo.github.io
-  instagram: 
+  instagram: sun._.msd
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
