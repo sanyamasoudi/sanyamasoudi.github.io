@@ -9,6 +9,9 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [watching spongebob animation](https://en.wikipedia.org/wiki/SpongeBob_SquarePants)
+* [readingbooks]
+* [painting]
+* [dancing]
 
 
