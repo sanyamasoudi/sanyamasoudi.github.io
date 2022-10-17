@@ -5,5 +5,5 @@ permalink: /blog/
 title: Blog Posts
 tags: [blog]
 modified: 3-10-2019
-comments: false
+comments: true
 ---
