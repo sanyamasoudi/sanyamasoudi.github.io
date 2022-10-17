@@ -1,6 +1,6 @@
 ---
 layout: posts
-author_profile: true
+author_profile: false
 permalink: /blog/
 title: Blog Posts
 tags: [blog]
