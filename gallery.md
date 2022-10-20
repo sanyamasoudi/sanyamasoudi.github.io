@@ -23,10 +23,10 @@ gallery:
     image_path: /assets/images/25.jpg
     alt: "placeholder image 25"
     title: "Image 25 title caption"
-  - url: /assets/images/23.jpg
-    image_path: /assets/images/23.jpg
-    alt: "placeholder image 23"
-    title: "Image 23 title caption"
+  - url: /assets/images/20.jpg
+    image_path: /assets/images/20.jpg
+    alt: "placeholder image 20"
+    title: "Image 20 title caption"
    url: /assets/images/15.jpg
     image_path: /assets/images/15.jpg
     alt: "placeholder image 15"
