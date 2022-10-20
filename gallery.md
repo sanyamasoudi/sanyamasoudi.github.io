@@ -7,26 +7,26 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/6.jpg
-    image_path: /assets/images/6.jpg
-    alt: "placeholder image 6"
-    title: "Image 6 title caption"
-  - url: /assets/images/7.jpg
-    image_path: /assets/images/7.jpg
-    alt: "placeholder image 7"
-    title: "Image 7 title caption"
-  - url: /assets/images/9.jpg
-    image_path: /assets/images/9.jpg
-    alt: "placeholder image 9"
-    title: "Image 9 title caption"  
-  - url: /assets/images/12.jpg
-    image_path: /assets/images/12.jpg
-    alt: "placeholder image 12"
-    title: "Image 12 title caption"
-  - url: /assets/images/10.jpg
-    image_path: /assets/images/10.jpg
-    alt: "placeholder image 10"
-    title: "Image 10 title caption"    
+  - url: /assets/images/14.jpg
+    image_path: /assets/images/14.jpg
+    alt: "placeholder image 14"
+    title: "Image 14 title caption"
+  - url: /assets/images/22.jpg
+    image_path: /assets/images/22.jpg
+    alt: "placeholder image 22"
+    title: "Image 22 title caption"
+  - url: /assets/images/15.jpg
+    image_path: /assets/images/22.jpg
+    alt: "placeholder image 22"
+    title: "Image 22 title caption"  
+  - url: /assets/images/25.jpg
+    image_path: /assets/images/25.jpg
+    alt: "placeholder image 25"
+    title: "Image 25 title caption"
+  - url: /assets/images/23.jpg
+    image_path: /assets/images/23.jpg
+    alt: "placeholder image 23"
+    title: "Image 23 title caption"    
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
