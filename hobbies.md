@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [whatchingmovies]
-* [readingbooks]
+* [WhatchingMovies]
+* [ReadingBooks]
 * [painting]
 * [dancing]
 
