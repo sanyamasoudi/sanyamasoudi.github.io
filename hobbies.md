@@ -9,7 +9,7 @@ comments: false
 ---
 
 
-* [watching spongebob animation](https://en.wikipedia.org/wiki/SpongeBob_SquarePants)
+* [whatchingmovies]
 * [readingbooks]
 * [painting]
 * [dancing]
