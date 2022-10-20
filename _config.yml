@@ -116,7 +116,7 @@ author:
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
   github: sanyamasoudi.github.io/sanyamasoudi
-  instagram: www.instagram.com/sun._.msd/
+  instagram: 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,7 +124,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://sanyamasoudi.github.io/sanyamasoudi"
-    
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/sun._.msd/"
     - label: "Telegram"
       icon: "fab fa-telegram"
       url: "http://t.me/sun_msd"
