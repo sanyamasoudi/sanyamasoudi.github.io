@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" #"default" # "air", "dark", "dirt","mint", "plum", "sunrise","aqua"
+minimal_mistakes_skin    : "dark" #"default" # "air", "dirt","mint", "plum", "sunrise","aqua","contrast"
 
 # Site Settings
 locale                   : "en-US" 
@@ -124,9 +124,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://sanyamasoudi.github.io/sanyamasoudi"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/sun._.msd/"
+    
     - label: "Telegram"
       icon: "fab fa-telegram"
       url: "http://t.me/sun_msd"
