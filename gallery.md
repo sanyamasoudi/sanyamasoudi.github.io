@@ -32,5 +32,5 @@ gallery:
     alt: "placeholder image 15"
     title: "Image 15 title caption"     
 ---
-
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
