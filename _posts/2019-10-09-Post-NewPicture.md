@@ -17,7 +17,7 @@ title: مصاحبه با اقای حسین رحمانی
 - کلان داده
 - بایوانفورماتیک
 
-[my favorite website](http://www.google.com)
+
 
 
 
