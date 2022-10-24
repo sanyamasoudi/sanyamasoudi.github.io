@@ -23,4 +23,4 @@ comments: true
 - کلان‌داده
 - بایوانفورماتیک
 
-
+ ![اقای دکتر حسین رحمانی] {http://www.iust.ac.ir/content/46310/%D8%AF%DA%A9%D8%AA%D8%B1-%D8%AD%D8%B3%DB%8C%D9%86-%D8%B1%D8%AD%D9%85%D8%A7%D9%86%DB%8C}
