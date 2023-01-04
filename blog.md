@@ -17,6 +17,6 @@ comments: true
 - work with pythonanywhere.com
 - how to search in google
 ### منابع کمک کننده در این راه
-* [wikipedia] (https://www.google.com)
-* [yotube] (https://www.yotube.com)
-* [w3school] (https://www.w3schools.com)
+* [wikipedia](https://www.wikipedia.org/)
+* [youtube](https://www.youtube.com)
+* [w3school](https://www.w3schools.com/)
