@@ -39,4 +39,5 @@ title: Creating a work of art(MandelbrotProject)
 ## در مرحله اخر از نتیجه کارمون لذت میبریم:)
 [i-upload-it-in-this-site](https://vimeo.com/792128315)
 
+[you-can-also-see-my-project-in-reddit](https://www.reddit.com/r/generative/comments/10k1wuc/mandelbrot/?utm_source=share&utm_medium=web2x&context=3)
 -----------------------------------------------------------------------
