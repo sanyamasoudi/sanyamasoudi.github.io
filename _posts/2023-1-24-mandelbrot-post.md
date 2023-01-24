@@ -38,7 +38,5 @@ title: Creating a work of art(MandelbrotProject)
 - .. ffmpeg -r 5 -i %05d.bmp -c:v libx264 -vf fps=25 -pix_fmt yuv420p out.mp4 ..
 ## در مرحله اخر از نتیجه کارمون لذت میبریم:)
 
-[i-upload-my-project-in-this-site](https://vimeo.com/792128315)
-
-[you-can-also-see-my-project-in-reddit](https://www.reddit.com/r/generative/comments/10k1wuc/mandelbrot/?utm_source=share&utm_medium=web2x&context=3)
+[you-can-see-my-project-in-reddit](https://www.reddit.com/user/sani_msd/comments/10k31ek/mandelbrot/?utm_source=share&utm_medium=web2x&context=3)
 -----------------------------------------------------------------------
