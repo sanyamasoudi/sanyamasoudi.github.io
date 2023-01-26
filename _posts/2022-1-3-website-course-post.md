@@ -31,21 +31,6 @@ title: website course(DjangoProject)
 - خلاصه ای از روند گذاشتن بکگراند متحرک اینگونس که ابتدا یک پوشه جدید به نام استاتیک ایجاد کرده درون پوشه یک پوشه جدید دیگر به نام سی اس اس ایجاد کرده
 در ان پوشه فایل سی اس اس خود را قرار داده
 اولیه خود  قسمت پایین را می افزاییمhtml در اخر هم در 
-
-
-![alt text](../assets/images/32.jpg "doctor hossein rahmani")
-
-
-- مشکل دیگر لینک کردن پیج ها بهم بود
-![alt text](../assets/images/29.jpg)
-
-
-![alt text](../assets/images/30.jpg)
-
-
-![alt text](../assets/images/31.jpg)
-
-
 [mysite-address](http://401522115.pythonanywhere.com/members)
 
 -----------------------------------------------------------------------
