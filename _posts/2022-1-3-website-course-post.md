@@ -43,7 +43,7 @@ title: website course(DjangoProject)
 - ![alt text](../assets/images/30.jpg  "3")
 <br>
 
-![alt text](../assets/images/31.jpg  "4")
+[alt text](../assets/images/31.jpg  "4")
 
 
 [mysite-address](http://401522115.pythonanywhere.com/members)
