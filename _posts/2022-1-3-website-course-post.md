@@ -33,11 +33,11 @@ title: website course(DjangoProject)
 اولیه خود  قسمت پایین را می افزاییمhtml در اخر هم در 
 <br>
 
-[alt text](../assets/images/32.jpg)
+![alt text](../assets/images/32.jpg)
 <br>
 
 - مشکل دیگر لینک کردن پیج ها بهم بود
-[alt text](../assets/images/29.jpg)
+![alt text](../assets/images/29.jpg)
 <br>
 
 ![alt text](../assets/images/30.jpg)
