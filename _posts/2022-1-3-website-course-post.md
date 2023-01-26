@@ -33,7 +33,7 @@ title: website course(DjangoProject)
 اولیه خود  قسمت پایین را می افزاییمhtml در اخر هم در 
 
 
-![alt text](../assets/images/32.jpg)
+![alt text](../assets/images/0.jpg "doctor hossein rahmani")
 
 
 - مشکل دیگر لینک کردن پیج ها بهم بود
