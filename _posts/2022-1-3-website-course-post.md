@@ -33,17 +33,17 @@ title: website course(DjangoProject)
 اولیه خود  قسمت پایین را می افزاییمhtml در اخر هم در 
 <br>
 
-![alt text](../assets/images/32.jpg  "1")
+[alt text](../assets/images/32.jpg)
 <br>
 
 - مشکل دیگر لینک کردن پیج ها بهم بود
-![alt text](../assets/images/29.jpg  "2")
+[alt text](../assets/images/29.jpg)
 <br>
 
-- ![alt text](../assets/images/30.jpg  "3")
+![alt text](../assets/images/30.jpg)
 <br>
 
-[alt text](../assets/images/31.jpg  "4")
+![alt text](../assets/images/31.jpg)
 
 
 [mysite-address](http://401522115.pythonanywhere.com/members)
