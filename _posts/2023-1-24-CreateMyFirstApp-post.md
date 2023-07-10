@@ -2,10 +2,10 @@
 layout: posts
 title: ToDomanager Application
 ---
-!["ٌwpfClient-finalProject"](../assets/ToDoManagerAppImages/1.jpg)
-!["wpfClient-finalProject"](../assets/ToDoManagerAppImages/2.jpg)
-!["wpfClient-finalProject"](../assets/ToDoManagerAppImages/3.jpg)
-!["wpfClient-finalProject"](../assets/ToDoManagerAppImages/4.jpg)
+!["ٌwpfClient1-finalProject"](../assets/ToDoManagerAppImages/1.png)
+!["wpfClient2-finalProject"](../assets/ToDoManagerAppImages/2.png)
+!["wpfClient3-finalProject"](../assets/ToDoManagerAppImages/3.png)
+!["wpfClient4-finalProject"](../assets/ToDoManagerAppImages/4.png)
 ## معرفی اولیه
 هدف این پروژه طراحی و پیادهسازی یک اپلیکیشن بسیار ساده به صورت حرفهای و رعایت اصول طراحی ورعایت اصول طراحی و پساده سازی سالید با استفاده از فناوری ها  و بسترهای نرم افزاری نوین بود
  اپلیکیشن ما مانند اپلیکشن گوگل تسک و مایکروسافت تودو است
